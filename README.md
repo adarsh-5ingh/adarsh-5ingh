@@ -16,5 +16,3 @@ and then turning them into **clean, scalable web apps** ⚡ that actually work i
 
 What excites me most?  
 Not just writing code, but **shaping ideas into something people can use and enjoy** 💡.  
-
----
